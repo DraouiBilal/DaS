@@ -1,0 +1,34 @@
+git
+hyprland
+dunst
+kitty
+base-devel
+brave-bin
+waybar
+wofi
+thunar
+hyprpaper
+hyprdile
+hyprlock
+nvim
+zsh
+swaync
+nvm
+node
+npm
+less
+postman
+pipewire pipewire-pulse pipewire-alsa pipewire-jack wireplumber
+brightnessctl
+fastfetch
+ttf-jetbrains-mono-nerd
+zip unzip
+cargo
+grim slurp
+wl-clipboard
+swappy
+discord
+xdg-desktop-portal xdg-desktop-portal-wlr
+wlogout
+pavucontrol
+bluez bluez-utils

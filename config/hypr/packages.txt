@@ -1,0 +1,10 @@
+git
+base-devel
+hyprland
+brave-bin
+dunst
+wofi
+thunar
+hyprpaper
+hyprdile
+hyprlock
