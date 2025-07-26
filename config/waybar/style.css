@@ -131,6 +131,14 @@ window#waybar.empty #window {
   color: #f38ba8;
 }
 
+#custom-arch {
+  padding: 0.3rem 0.6rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  background-color: #1e1e2e;
+  color: #0a4bcc; /* A soft Arch blue */
+}
+
 tooltip {
   background-color: #181825;
   border: 2px solid #89b4fa;

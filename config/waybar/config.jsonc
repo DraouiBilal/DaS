@@ -8,6 +8,7 @@
     "passthrough": false,
     "fixed-center": true,
     "modules-left": [
+        "custom/arch",
         "hyprland/workspaces",
         "hyprland/window"
     ],
@@ -134,6 +135,10 @@
         "tooltip": false,
         "on-click": "wlogout -p layer-shell &",
         "format": "⏻",
+    },
+    "custom/arch": {
+        "format": "", // This is the Arch icon from Nerd Font
+        "tooltip": false
     },
     "custom/notification": {
         "escape": true,
