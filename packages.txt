@@ -32,3 +32,4 @@ xdg-desktop-portal xdg-desktop-portal-wlr
 wlogout
 pavucontrol
 bluez bluez-utils
+tmux

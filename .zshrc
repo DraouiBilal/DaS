@@ -107,6 +107,7 @@ export PATH=$PATH:~/packages/regular/go/bin
 alias ll="ls -ltrhas"
 alias n="nvim"
 alias .="source"
+alias t="tmux"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
