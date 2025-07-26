@@ -33,3 +33,6 @@ wlogout
 pavucontrol
 bluez bluez-utils
 tmux
+podman
+docker-compose
+helm kubectl argocd postgresql
