@@ -5,7 +5,7 @@ kitty
 base-devel
 brave-bin
 waybar
-wofi
+rofi
 thunar
 hyprpaper
 hyprdile
@@ -36,3 +36,7 @@ tmux
 podman
 docker-compose
 helm kubectl argocd postgresql
+ripgrep
+tlp tlp-rdw cpupower
+powertop
+yq
