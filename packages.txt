@@ -40,3 +40,6 @@ ripgrep
 tlp tlp-rdw cpupower
 powertop
 yq
+net-tools
+kwalletmanager
+noto-fonts-cjk
